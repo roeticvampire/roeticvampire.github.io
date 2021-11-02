@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://roeticvampire.github.io/sitemap.xml
+Host: https://roeticvampire.github.io
